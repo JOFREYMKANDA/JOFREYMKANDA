@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JOFREY PETER MKANDA
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate with anyone passionate enough
 - 📫 How to reach me jofreymkanda@gmail.com OR 0652624625
 
